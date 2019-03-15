@@ -1,25 +1,25 @@
-# Prework-CodeChallenges
+## Prework-CodeChallenges
 
-## Problem 1: Array Max Result
+# Problem 1: Array Max Result
 
-# Problem Statement
+## Problem Statement
 Given an array select a number that exists, and output the computated "score". The method you create should take in both an array of integers and the integer the user selected.
 
 Create a Console application that requests 5 numbers between 1-10. Output the array to the console and Ask the user to select a number. After the selection, output the "score" of the number chosen.
 
-# Selection and Scoring Algorithm
+## Selection and Scoring Algorithm
 You can select any number from the list, however your scoring will be depend on the frequency of that number in the list. E.g for [2,2,3,5,4] if you pick 2 your score will be 4 (2 * 2) but if you pick 5 your score will be 5 (5 * 1)
 
-# Input Format
+### Input Format
 An array of integers, and the number chosen.
 
-### Solution:
+## Solution:
 
 ![Answer 1](https://github.com/Roketsu86/Prework-CodeChallenges/blob/master/prework-1.jpg)
 
-## Problem 2: Leap Year Calculator
+# Problem 2: Leap Year Calculator
 
-# Problem Statement
+## Problem Statement
 Given a year, report if it is a leap year.
 
 The tricky thing here is that a leap year in the Gregorian calendar occurs:
@@ -34,6 +34,6 @@ Want to know more about Leap Year? Watch this 4 minute video HERE
 
 Note: This is not a trick problem. Edge cases do not need to be taken into consideration when creating a solution.
 
-### Solution:
+## Solution:
 
 ![Answer 2](https://github.com/Roketsu86/Prework-CodeChallenges/blob/master/prework-2.jpg)
