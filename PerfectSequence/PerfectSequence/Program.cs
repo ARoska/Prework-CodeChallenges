@@ -6,11 +6,16 @@ namespace PerfectSequence
     {
         static void Main(string[] args)
         {
-            int[] test = new int[3];
+            int n;
             int sum = 0;
             int product = 1;
 
-            Console.WriteLine("Please input 3 numbers:");
+            Console.Write("Please input the length of the array: ");
+            Int32.TryParse(Console.ReadLine(), out n);
+
+            int[] test = new int[n];
+
+            Console.WriteLine($"Please input {test.Length} numbers:");
             for(int i = 0; i < test.Length; i++)
             {
                 int number;
