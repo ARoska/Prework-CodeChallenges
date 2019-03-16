@@ -59,11 +59,9 @@ An array of integers (may not be sorted)
 Given a matrix of integers. Return the sum of each row in a single dimensional array.
 
 ## Input Format
-A multidimensional array with the dimensions of m x n (m = rows, n = columns).
+A multidimensional array with the dimensions of m * n (m = rows, n = columns).
 
-Duplicate integers are possible.
-Negative numbers are possible
-Both m and n can vary in length
+Duplicate integers are possible.  Negative numbers are possible.  Both m and n can vary in length.
 
 The user should specify the length and the width of the array within the console. To populate the numbers, you may randomly generate them, or have the user input one by one.
 
