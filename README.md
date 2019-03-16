@@ -52,3 +52,23 @@ An array of integers (may not be sorted)
 ## Solution:
 
 ![Answer 3](https://github.com/Roketsu86/Prework-CodeChallenges/blob/master/prework-3.jpg)
+
+# Problem 4: Sum of Rows
+
+## Problem Statement
+Given a matrix of integers. Return the sum of each row in a single dimensional array.
+
+## Input Format
+A multidimensional array with the dimensions of m x n (m = rows, n = columns).
+
+Duplicate integers are possible.
+Negative numbers are possible
+Both m and n can vary in length
+
+The user should specify the length and the width of the array within the console. To populate the numbers, you may randomly generate them, or have the user input one by one.
+
+The method should take in the multidimensional array and return the single dimensional array with the sums
+
+## Solution:
+
+![Answer 4](https://github.com/Roketsu86/Prework-CodeChallenges/blob/master/prework-4.jpg)
